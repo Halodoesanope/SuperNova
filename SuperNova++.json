@@ -1,0 +1,46 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "author": "Halo In Wonderland#6358",
+        "license": "DBAD",
+        "name": "SuperNova++"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1087628458579988550\/1098492236309745694\/Untitled6_20230420011515.png"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1087628458579988550\/1098497182526619698\/Raleway-Medium.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -1719386716,
+        "accent": -198700495,
+        "mention_highlight": 472018611,
+        "background": 25443748,
+        "background_secondary": 187137741
+    },
+    "colors": {
+        "brand": -14188851,
+        "brand_new_500": -14188851,
+        "primary_dark_400": -726901258,
+        "primary_dark_360": -242929962,
+        "uikit_btn_compound_color_selector_dark": -1788928,
+        "primary_dark_300": -240536138,
+        "uikit_btn_compound_color_selector_light": -1276592086,
+        "uikit_settings_item_text_color_dark": -242208792,
+        "uikit_settings_item_text_color_light": -370887680,
+        "abc_tint_switch_track": -1321243243,
+        "link": -14188851,
+        "link_500": -14188851,
+        "primary_dark_200": -1,
+        "white_500": -1
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -622545920,
+        "ic_sidebar_notifications_off_dark_24dp": -246650762,
+        "ic_sidebar_pins_off_dark_24dp": -551059763,
+        "ic_sidebar_pins_on_dark_24dp": -437996544,
+        "ic_thread": -547676042
+    },
+    "raws": {}
+}
