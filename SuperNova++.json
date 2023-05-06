@@ -1,10 +1,9 @@
 {
     "manifest": {
-        "version": "1.0.0",
-        "author": "Halo In Wonderland#6358",
+        "version": "1.1.0",
+        "author": "GLXTCH3D#8658",
         "license": "DBAD",
         "name": "SuperNova++"
-       
     },
     "background": {
         "overlay_alpha": 120,
@@ -16,7 +15,7 @@
     "simple_colors": {
         "active_channel": -1719386716,
         "accent": -186338304,
-        "mention_highlight": 472018611,
+        "mention_highlight": -1658687821,
         "background": 25443748,
         "background_secondary": 187137741
     },
